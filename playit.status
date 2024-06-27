@@ -1,352 +1,538 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719446768140 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719463616939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446771281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463619975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446774340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463623037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446777421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463627654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446780469 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463630715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446783518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463633775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446786776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463636827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446789947 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463639876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446793007 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463643104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446796046 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463646204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446799104 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463649921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446802176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463652991 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446806617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463656031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446809786 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463659090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446812861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463662146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446815903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463665220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446818970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463668274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446822032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463671343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446825096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463674410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446828481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463677596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446832220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463680683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446835336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463683722 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446838445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463686780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446841508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463689841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446844553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463692892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446847595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463696887 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446850694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463700202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446854222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463703248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446857260 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463706296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446860319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463709334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446863369 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463712383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446866444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463715454 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446869526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463718938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446872681 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463722094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446876412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463725142 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446879613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463728228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446882656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463731294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446885722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463734351 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446888819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463737397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446891895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463740470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446894986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463746601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446898102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463749732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446902296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463752786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446905794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463755843 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446908871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463758931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446911950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463761992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446915021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463765105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446918070 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463768164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446921106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463771205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446924205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463774254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446927256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463777345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446930305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463780382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446933386 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463783420 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446936435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463786978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446939572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463790138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446942673 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463793313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446947823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463796372 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446950992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463799456 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719446954087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719463803887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463806983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463810271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463814348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463817401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463820559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463823648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463826684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463829778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463832906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463835936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463839024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463842159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463845206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463848256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463851319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463854452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463858412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463861782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463864881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463868123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463871462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463874525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463877564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463880673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463883729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463887179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463890221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463893379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463896447 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463899508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+on-growing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+content-constructed.gl.at.ply.gg:3079 => 127.0.0.1:3079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719463903235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
